@@ -1,2 +1,4 @@
 # JavaStudy
-Java Programming Practice
+
+## Chapter 1
++ 변수
